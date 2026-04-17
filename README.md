@@ -1,6 +1,6 @@
-🎓 # Smart Virtual Proctoring System
+🎓 Smart Virtual Proctoring System
 
-📌 ##Overview
+📌 Overview
 
 This project presents a Smart Virtual Proctoring System designed to automatically detect cheating during online exams using Artificial Intelligence and Computer Vision techniques.
 
@@ -8,7 +8,7 @@ With the rapid growth of online education, ensuring exam integrity has become a 
 
 ---
 
-🚀 ##Features
+🚀 Features
 
 - 🎥 Real-time video monitoring using webcam
 - 👁️ Eye tracking and gaze detection
@@ -20,7 +20,7 @@ With the rapid growth of online education, ensuring exam integrity has become a 
 
 ---
 
-🧠 ##Technologies Used
+🧠 Technologies Used
 
 - Programming Language: Python
 - Computer Vision: OpenCV, dlib
@@ -31,7 +31,7 @@ With the rapid growth of online education, ensuring exam integrity has become a 
 
 ---
 
-⚙️ ##System Architecture
+⚙️ System Architecture
 
 The system works by:
 
@@ -43,7 +43,7 @@ The system works by:
 
 ---
 
-🛠️ ## Installation
+🛠️ Installation
 
 Prerequisites
 
@@ -52,13 +52,15 @@ Prerequisites
 - Microphone
 - MySQL Server
 
+Steps
+
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 pip install -r requirements.txt
 
 ---
 
-▶️ ## Usage
+▶️ Usage
 
 Run the system using:
 
@@ -72,7 +74,7 @@ Then:
 
 ---
 
-📊 ## Results
+📊 Results
 
 The system was tested in a simulated exam environment and successfully detected:
 
@@ -82,7 +84,7 @@ The system was tested in a simulated exam environment and successfully detected:
 
 ---
 
-⚠️ ##Challenges
+⚠️ Challenges
 
 - Lighting conditions affecting face detection
 - Accuracy of gaze tracking
@@ -90,7 +92,7 @@ The system was tested in a simulated exam environment and successfully detected:
 
 ---
 
-🔒 ##Ethical Considerations
+🔒 Ethical Considerations
 
 - User privacy must be respected
 - Data should be securely stored
@@ -98,7 +100,7 @@ The system was tested in a simulated exam environment and successfully detected:
 
 ---
 
-📌 ##Future Improvements
+📌 Future Improvements
 
 - Improve accuracy using deep learning models
 - Add multi-camera support
@@ -107,9 +109,9 @@ The system was tested in a simulated exam environment and successfully detected:
 
 ---
 
-👨‍💻 ##Authors
+👨‍💻 Authors
 
-- Haseeba Alhaddi 
+- Haseeba Alhaddi
 - Asrar Qaseem
 - Saga Alshosi
 - Maha Hamid
@@ -119,12 +121,12 @@ The system was tested in a simulated exam environment and successfully detected:
 
 ---
 
-📄 #License
+📄 License
 
 This project is for academic purposes.
 
 ---
 
-🙏 #Acknowledgments
+🙏 Acknowledgments
 
 Special thanks to our supervisors and faculty for their guidance and support.
